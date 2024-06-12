@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/11 14:00:08.000.678,=C:\Users\Dev8\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/03 09:10:03.000.891,=C:\Users\Dev8\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/03 09:14:41.000.923,C:\Users\Dev8\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Dev8\Desktop\Belt Zap\uPrincipal.pas</Transaction>
+    <Transaction>2024/06/03 09:14:41.000.923,C:\Users\Dev8\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Dev8\Desktop\Belt Zap\uPrincipal.dfm</Transaction>
+    <Transaction>2024/06/03 09:14:55.000.107,C:\Users\Dev8\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dev8\Desktop\Belt Zap\BeltZap.dproj</Transaction>
+    <Transaction>2024/06/03 10:00:05.000.151,=C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.pas</Transaction>
+    <Transaction>2024/06/03 10:31:27.000.364,=C:\Users\Dev8\Desktop\Belt Zap\uEvolutionAPI.Emoticons.pas</Transaction>
+    <Transaction>2024/06/03 10:32:03.000.929,C:\Users\Dev8\Desktop\Belt Zap\uBeltZao.Emoticons.pas=C:\Users\Dev8\Desktop\Belt Zap\uEvolutionAPI.Emoticons.pas</Transaction>
+    <Transaction>2024/06/03 10:32:09.000.980,C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.Emoticons.pas=C:\Users\Dev8\Desktop\Belt Zap\uBeltZao.Emoticons.pas</Transaction>
+    <Transaction>2024/06/03 16:02:19.000.415,=C:\Users\Dev8\Desktop\Belt Zap\UqrCodeEvo.pas</Transaction>
+    <Transaction>2024/06/03 16:02:37.000.087,C:\Users\Dev8\Desktop\Belt Zap\uQrCode.pas=C:\Users\Dev8\Desktop\Belt Zap\UqrCodeEvo.pas</Transaction>
+    <Transaction>2024/06/03 16:02:37.000.087,C:\Users\Dev8\Desktop\Belt Zap\uQrCode.dfm=C:\Users\Dev8\Desktop\Belt Zap\UqrCodeEvo.dfm</Transaction>
+    <Transaction>2024/06/03 16:03:02.000.433,C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.QrCode.dfm=C:\Users\Dev8\Desktop\Belt Zap\uQrCode.dfm</Transaction>
+    <Transaction>2024/06/03 16:03:02.000.433,C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.QrCode.pas=C:\Users\Dev8\Desktop\Belt Zap\uQrCode.pas</Transaction>
+    <Transaction>2024/06/03 16:35:59.000.366,C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.QrCode.pas=</Transaction>
+    <Transaction>2024/06/04 08:15:52.000.810,=C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.QrCode.pas</Transaction>
+    <Transaction>2024/06/04 14:56:53.000.489,=F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Unt_Conexao.pas</Transaction>
+    <Transaction>2024/06/04 14:57:23.000.456,=C:\Users\Dev8\Desktop\Belt Zap\Unit1.pas</Transaction>
+    <Transaction>2024/06/04 14:58:08.000.684,C:\Users\Dev8\Desktop\Belt Zap\Unit1.dfm=C:\Users\Dev8\Desktop\Belt Zap\DmWpp.dfm</Transaction>
+    <Transaction>2024/06/04 14:58:08.000.684,C:\Users\Dev8\Desktop\Belt Zap\Unit1.pas=C:\Users\Dev8\Desktop\Belt Zap\DmWpp.pas</Transaction>
+    <Transaction>2024/06/04 14:58:24.000.205,C:\Users\Dev8\Desktop\Belt Zap\DmWpp.pas=C:\Users\Dev8\Desktop\Belt Zap\uDmWpp.pas</Transaction>
+    <Transaction>2024/06/04 14:58:24.000.205,C:\Users\Dev8\Desktop\Belt Zap\DmWpp.dfm=C:\Users\Dev8\Desktop\Belt Zap\uDmWpp.dfm</Transaction>
+    <Transaction>2024/06/04 14:58:46.000.093,=C:\Users\Dev8\Desktop\Belt Zap\Unit2.pas</Transaction>
+    <Transaction>2024/06/04 14:59:00.000.660,C:\Users\Dev8\Desktop\Belt Zap\Unit2.pas=C:\Users\Dev8\Desktop\Belt Zap\uParametroWpp.pas</Transaction>
+    <Transaction>2024/06/04 14:59:00.000.660,C:\Users\Dev8\Desktop\Belt Zap\Unit2.dfm=C:\Users\Dev8\Desktop\Belt Zap\uParametroWpp.dfm</Transaction>
+    <Transaction>2024/06/04 15:07:18.000.023,=F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Unt_Util.pas</Transaction>
+    <Transaction>2024/06/04 15:07:39.000.101,=F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Classe.Auxiliar.pas</Transaction>
+    <Transaction>2024/06/04 15:08:15.000.111,F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Classe.Auxiliar.pas=</Transaction>
+    <Transaction>2024/06/04 15:08:21.000.660,F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Unt_Conexao.pas=</Transaction>
+    <Transaction>2024/06/04 15:08:24.000.350,F:\Desenvolvimento\Fontes\bspac0000_util\XE5\Unt_Util.pas=</Transaction>
+    <Transaction>2024/06/04 15:09:04.000.299,=C:\Users\Dev8\Desktop\Belt Zap\Unt_Conexao.pas</Transaction>
+    <Transaction>2024/06/04 15:13:03.000.823,C:\Users\Dev8\Desktop\Belt Zap\uPrincipal.pas=</Transaction>
+    <Transaction>2024/06/04 15:13:08.000.728,=C:\Users\Dev8\Desktop\Belt Zap\uPrincipal.pas</Transaction>
+    <Transaction>2024/06/04 15:17:46.000.788,C:\Users\Dev8\Desktop\Belt Zap\uParametroWpp.pas=</Transaction>
+    <Transaction>2024/06/04 15:17:52.000.674,C:\Users\Dev8\Desktop\Belt Zap\Unt_Conexao.pas=</Transaction>
+    <Transaction>2024/06/05 09:09:44.000.035,=C:\Users\Dev8\Desktop\Belt Zap\UntToken.pas</Transaction>
+    <Transaction>2024/06/05 09:10:09.000.222,C:\Users\Dev8\Desktop\Belt Zap\uBeltZap.Token.pas=C:\Users\Dev8\Desktop\Belt Zap\UntToken.pas</Transaction>
+    <Transaction>2024/06/06 11:22:08.000.790,=C:\Users\Dev8\Desktop\Belt Zap\uDmWpp.pas</Transaction>
+    <Transaction>2024/06/06 11:38:46.000.337,C:\Users\Dev8\Desktop\Belt Zap\uDmWpp.pas=</Transaction>
+    <Transaction>2024/06/12 13:41:14.000.741,C:\Users\Dev8\Desktop\EvolutionAPI\BeltZap.dproj=C:\Users\Dev8\Desktop\EvolutionAPI\EvolutionAPI.dproj</Transaction>
+    <Transaction>2024/06/12 13:41:43.000.669,C:\Users\Dev8\Desktop\EvolutionAPI\uBeltZap.Emoticons.pas=C:\Users\Dev8\Desktop\EvolutionAPI\EvolutionAPI.Emoticons.pas</Transaction>
+    <Transaction>2024/06/12 13:41:58.000.581,C:\Users\Dev8\Desktop\EvolutionAPI\EvolutionAPI.Emoticons.pas=C:\Users\Dev8\Desktop\EvolutionAPI\uEvolutionAPI.Emoticons.pas</Transaction>
+    <Transaction>2024/06/12 13:42:14.000.298,C:\Users\Dev8\Desktop\EvolutionAPI\uBeltZap.Token.pas=C:\Users\Dev8\Desktop\EvolutionAPI\uEvolutionAPI.Token.pas</Transaction>
+    <Transaction>2024/06/12 13:42:26.000.952,C:\Users\Dev8\Desktop\EvolutionAPI\uBeltZap.QrCode.dfm=C:\Users\Dev8\Desktop\EvolutionAPI\uEvolutionAPI.QrCode.dfm</Transaction>
+    <Transaction>2024/06/12 13:42:26.000.952,C:\Users\Dev8\Desktop\EvolutionAPI\uBeltZap.QrCode.pas=C:\Users\Dev8\Desktop\EvolutionAPI\uEvolutionAPI.QrCode.pas</Transaction>
+    <Transaction>2024/06/12 13:42:36.000.140,C:\Users\Dev8\Desktop\EvolutionAPI\uBeltZap.pas=C:\Users\Dev8\Desktop\EvolutionAPI\uEvolutionAPI.pas</Transaction>
+  </Transactions>
+</BorlandProject>

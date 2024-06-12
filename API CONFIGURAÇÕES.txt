@@ -1,0 +1,1 @@
+docker run --name evolution-api --detach  -p 8080:8080 -e AUTHENTICATION_API_KEY="SUA_CHAVE" atendai/evolution-api node ./dist/src/main.js
